@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/zapxyz/fa81e5eb6849351cce5be8ab12a4a3ac/raw/c37177ce0390fb9c13163e587d9e9b17552b6ba8/gistfile1.txt'))()
+loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()
